@@ -1,0 +1,10 @@
+{
+    "name": "wild/app",
+    "description": "WCS Composer Quest",
+    "autoload": {
+        "psr-4": {
+            "Wild\\App\\": "src/"
+        }
+    },
+    "require": {}
+}
